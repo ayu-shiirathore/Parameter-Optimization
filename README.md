@@ -20,12 +20,12 @@ This repository contains a Jupyter notebook implementing SVM optimization on the
 ### Comparative Performance Table
 The table below shows the performance comparison of optimized SVM across the 10 different samples:
 
-![SVM Performance Table]([images/svm_performance_table.png](https://github.com/ayu-shiirathore/Parameter-Optimization/blob/main/Screenshot%202025-04-19%20221213.png))
+<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
 
 ### Convergence Graph
 The convergence graph for the best-performing SVM model:
 
-![Convergence Graph](images/convergence_graph.png)
+<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
 
 
 ## Implementation Details
