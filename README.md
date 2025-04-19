@@ -25,7 +25,7 @@ The table below shows the performance comparison of optimized SVM across the 10 
 ### Convergence Graph
 The convergence graph for the best-performing SVM model:
 
-<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
+<img src="https://github.com/ayu-shiirathore/Parameter-Optimization/blob/main/42d6c5ba.png" alt="Sample Image" />
 
 
 ## Implementation Details
